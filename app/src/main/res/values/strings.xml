@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Carte de visite</string>
+    <string name="name">Dylan Noel TIGOMO</string>
+    <string name="email">dylannoeltigomo@gmail.com</string>
+    <string name="phone">655278375</string>
+    <string name="github">DylanNoel</string>
+    <string name="linkedin">Dylan NT2</string>
+    <string name="share">A new android dev</string>
+</resources>
